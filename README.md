@@ -1,13 +1,8 @@
-# AI in Software Engineering — Week 4 Assignment
-
-**Author:** Silvia Mutete  
-**Course:** Bachelor of Business Information Technology (BBIT) — Kiriri Women’s University of Science & Technology
-
----
+# AI in Software Engineering 
 
 ## Overview
 
-This repository contains solutions for Week 4: AI in Software Engineering. It includes theoretical analysis, practical implementations (automation and predictive modeling), ethical reflection, and a short bonus proposal.
+ It includes theoretical analysis, practical implementations (automation and predictive modeling), ethical reflection, and a short bonus proposal.
 
 ## Contents
 
@@ -92,8 +87,8 @@ jupyter notebook task3_predictive.ipynb
 
 ## Contact
 
-Author: Silvia Mutete — Kiriri Women’s University of Science & Technology
+Author: Silvia Mutete 
 
 ---
 
-If you want any section expanded (visuals, PDF generation, CI, or a properly formatted proposal PDF), tell me what to add and I’ll update the repo.
+
