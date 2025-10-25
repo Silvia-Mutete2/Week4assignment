@@ -1,0 +1,4 @@
+Accuracy: 0.9180
+F1 score: 0.9177
+
+(These example metrics correspond to the synthetic-data run in `task3_predictive.ipynb`. Actual values may vary slightly on re-runs due to numerical differences.)
